@@ -43,3 +43,18 @@ Hearts Of Iron IV flags quality settings patched
 Hearts Of Iron IV flags definition settings patched
 Hearts Of Iron IV flags quality settings optimized
 Hearts Of Iron IV flags definition settings optimized
+Hearts Of Iron IV portraits quality settings 100%
+Hearts Of Iron IV portraits definition settings 100%
+Hearts Of Iron IV portraits quality settings patched
+Hearts Of Iron IV portraits quality settings optimized
+Hearts Of Iron IV portraits definition settings patched
+Hearts Of Iron IV portraits definition settings patched
+Hearts Of Iron IV map settings patched
+Hearts Of Iron IV map settings optimized
+Hearts Of Iron IV map quality settings 100%
+Hearts Of Iron IV map definition settings 100%
+Hearts Of Iron IV map quality settings patched
+Hearts Of Iron IV map quality settings optimized
+Hearts Of Iron IV map definition settings patched
+Hearts Of Iron IV map definition settings optimized
+
